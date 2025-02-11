@@ -56,5 +56,8 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Dungeon Gunner Course.sln"
+    "dotnet.defaultSolution": "Dungeon Gunner Course.sln",
+    "cSpell.words": [
+        "Scriptable"
+    ]
 }
