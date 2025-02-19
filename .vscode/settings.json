@@ -59,6 +59,7 @@
     "dotnet.defaultSolution": "Dungeon Gunner Course.sln",
     "cSpell.words": [
         "Behaviour",
+        "Bezier",
         "nodestyle",
         "Scriptable"
     ]
