@@ -70,6 +70,7 @@
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeSO.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeTypeListSO.cs" />
     <Compile Include="Assets\Scripts\GameManager\GameResources.cs" />
+    <Compile Include="Assets\Scripts\Misc\Settings.cs" />
     <Compile Include="Assets\Scripts\NodeGraph\RoomNodeGraphSO.cs" />
   </ItemGroup>
   <ItemGroup>
